@@ -1,0 +1,6 @@
+matplotlib
+altair
+plotly
+scipy
+scikit-learn
+seaborn
